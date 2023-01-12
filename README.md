@@ -40,7 +40,7 @@
 ## Буду рад любму совету, поделюсь своими знаниями
 ## Сейчас работаю над проектом: [jeep-service](https://jeep-service.github.io/)
 
-### <img src="../src/img/img4.jpg" width="100%">
+### <img src="./src/img/img4.jpg" width="100%">
 
 
 
