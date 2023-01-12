@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**bikwal/bikwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Привет❗
+🧔Меня зовут Валерий
+Я junior frontend разработчик с дальнешим обучением до full stack
+Работаю с PSD, Figma и другими макетами сайтов.
+Мои инструменты: cat
+✔️среда разработки: Visual Studio Code
+✔️HTML
+✔️CSS
+✔️Bootstrap
+✔️JavaScript
+✔️Python
+✔️Django
+✔️git+github
+Готовлю материалы для сайта:
+📽️Изготовление видеороликов
+📈Работа в графических редакторах
+📜Тексты, копирайтинг
+Буду рад любму совету, поделюсь своими знаниями
+Сейчас работаю над проектом: jeep-service
