@@ -33,7 +33,7 @@
 #### Сейчас работаю над проектом: [jeep-service](https://jeep-service.github.io/)
 
 #### Связаться со мной можно: 
-#### <img src="./src/logo/logo-phone.png" width="30px"><img src="./src/logo/logo-whatsapp.png" width="30px"> +79061950283, <img src="./src/logo/logo-telegtam.png" width="30px">@bikwal, <img src="./src/logo/logo-whatsapp.png" width="30px">, <img src="./src/logo-skype.png" width="30px">bikwal
+#### <img src="./src/logo/logo-phone.png" width="30px"><img src="./src/logo/logo-whatsapp.png" width="30px"> +79061950283, <img src="./src/logo/logo-telegtam.png" width="30px">@bikwal, <img src="./src/logo/logo-skype.png" width="30px">bikwa;
 
 ### :fire: My Stats :
 
