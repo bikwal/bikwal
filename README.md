@@ -36,9 +36,8 @@
 #### <img src="./src/logo/logo-phone.png" width="30px"><img src="./src/logo/logo-whatsapp.png" width="33px"> +79061950283, <img src="./src/logo/logo-telegtam.png" width="30px"> @bikwal, <img src="./src/logo/logo-skype.png" width="30px"> bikwa1;
 
 ### :fire: My Stats :
-<!-- [![GitHub Streak](http://uber.herokuapp.com?user=bikwal&theme=dark&background=000000)](https://git.io/streak-stats) -->
-<!-- [![GitHub Streak](http://bikwals.herokuapp.com?user=bikwal&theme=dark)]([https://git.io/streak-stats](https://github.com/bikwal/uber.git)) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bikwal&theme=vue-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bikwal&theme=jolly)](https://git.io/streak-stats)
 
 
 <img src="./src/img/img4.jpg" width="100%">
