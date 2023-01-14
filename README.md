@@ -38,9 +38,8 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bikwal&theme=jolly)](https://git.io/streak-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <img src="./src/img/img4.jpg" width="100%">
 
 
