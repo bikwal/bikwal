@@ -41,8 +41,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bikwal&theme=jolly)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikwal&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikwal&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
