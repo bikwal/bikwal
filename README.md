@@ -44,6 +44,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikwal&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
