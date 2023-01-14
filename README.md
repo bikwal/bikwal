@@ -37,7 +37,7 @@
 
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://uber.herokuapp.com?user=bikwal&theme=dark&background=000000)](https://git.io/streak-stats) -->
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://uber.herokuapp.com/?user=bikwal
 
 
 
