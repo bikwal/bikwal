@@ -9,7 +9,7 @@
 
 <img src="./src/img/logos.jpg" width="100%">
 
-<ul style="list-style-type:none"> 
+## <ul style="list-style-type:none"> 
 <br>
     <li>✔️среда разработки VS studio </li>
     <li>✔️HTML </li>
