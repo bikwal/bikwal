@@ -33,11 +33,11 @@
 #### Сейчас работаю над проектом: [jeep-service](https://jeep-service.github.io/)
 
 #### Связаться со мной можно: 
-#### <img src="./src/logo/logo-phone.png" width="30px"><img src="./src/logo/logo-whatsapp.png" width="30px"> +79061950283, <img src="./src/logo/logo-telegtam.png" width="30px">@bikwal, <img src="./src/logo/logo-skype.png" width="30px">bikwa;
+#### <img src="./src/logo/logo-phone.png" width="30px"><img src="./src/logo/logo-whatsapp.png" width="33px"> +79061950283, <img src="./src/logo/logo-telegtam.png" width="30px"> @bikwal, <img src="./src/logo/logo-skype.png" width="30px"> bikwa1;
 
 ### :fire: My Stats :
-
-
+<!-- [![GitHub Streak](http://uber.herokuapp.com?user=bikwal&theme=dark&background=000000)](https://git.io/streak-stats) -->
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 
 
