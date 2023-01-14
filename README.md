@@ -38,7 +38,7 @@
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://uber.herokuapp.com?user=bikwal&theme=dark&background=000000)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](http://bikwals.herokuapp.com?user=bikwal&theme=dark)]([https://git.io/streak-stats](https://github.com/bikwal/uber.git)) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bikwal&theme=monokai)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bikwal&theme=vue-dark)](https://git.io/streak-stats)
 
 
 <img src="./src/img/img4.jpg" width="100%">
