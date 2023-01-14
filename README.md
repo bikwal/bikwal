@@ -1,7 +1,7 @@
 
 # <img src="./src/img/header.png" width="100%">
 # Привет❗
-## 🧔Меня зовут Валерий. Связаться со мной можно: 📞+79061950283, 
+## 🧔Меня зовут Валерий.
 ## Я junior frontend разработчик с дальнешим обучением до full stack
 ## Работаю с PSD, Figma и другими макетами сайтов.<br> Мои инструменты: <img src="../src/gif/cat.gif" alt="cat" width=50px><br><br>
 
@@ -32,6 +32,8 @@
 #### Буду рад любму совету, поделюсь своими знаниями
 #### Сейчас работаю над проектом: [jeep-service](https://jeep-service.github.io/)
 
+#### Связаться со мной можно: 
+#### <img src="./src/logo/logo-phone.png" width="30px"><img src="./src/logo/logo-whatsapp.png" width="30px"> +79061950283, <img src="./src/logo/logo-telegtam.png" width="30px">@bikwal, <img src="./src/logo/logo-whatsapp.png" width="30px">, <img src="./src/logo-skype.png" width="30px">bikwal
 ### :fire: My Stats :
 
 
