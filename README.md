@@ -47,6 +47,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikwal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bikwal)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatime)](https://github.com/anuraghazra/github-readme-stats)
 
